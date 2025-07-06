@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christian, 27 years old from Norway.
 -  I’m interested in Football, music, lyrical writing, gaming and technological devices
--  I’m studying for bachelor in IT and informationsystems
--  Co-owner of PinPointMe domain
+-  Bachelor degree in IT and informations systems.
 - 📫 How to reach me: Christian.eieland@hotmail.com
 
 <!---
